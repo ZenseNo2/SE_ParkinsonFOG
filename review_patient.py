@@ -829,7 +829,7 @@ class Player:
         items = self.panel_items()
         P = np.full((H, PANEL_W, 3), 32, np.uint8)
         cv2.line(P, (0, 0), (0, H), (90, 90, 90), 1)
-        put_text(P, "DAFTAR ANOMALI", (10, 22), 0.6, C_HEAD, 2)
+        put_text(P, "ppy ANOMALI", (10, 22), 0.6, C_HEAD, 2)
         put_text(P, f"filter (f): {FILTERS[self.filter_i][0]}   {len(items)} baris", (10, 44), 0.45, (220, 220, 220))
         put_text(P, "klik = lihat | klik kanan / z = bukan anomali", (10, 64), 0.4, (170, 170, 170))
         n_rows = self.panel_rows(H)
