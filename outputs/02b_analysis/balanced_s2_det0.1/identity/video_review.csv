@@ -21,5 +21,10 @@ PDFE10_2,ok,0,0,0,0,0,100,122.2,,mansurya,2026-10-27T12:39:46
 PDFE10_3,ok,0,0,0,0,0,100,121.2,,mansurya,2026-10-27T12:49:51
 PDFE11_1,ok,0,0,0,0,0,100,120.3,,mansurya,2026-10-27T12:52:30
 PDFE11_2,ok,0,0,0,0,0,100,120.2,"ada track palsu, di mana tangan pasien diberi label observer tertentu",mansurya,2026-10-27T13:06:38
-PDFE12_1,ada_anomali,13,1,12,0,0,100,120.8,,mansurya,2026-10-27T13:45:47
-PDFE13_1,belum_selesai,0,0,0,0,0,0,120.8,,mansurya,2026-10-27T13:45:52
+PDFE12_1,ada_anomali,13,13,0,0,0,100,120.8,,mansurya,2026-10-27T13:45:47
+PDFE13_1,ada_anomali,1,1,0,0,0,100,120.8,,mansurya,2026-10-27T13:47:50
+PDFE14_1,ok,0,0,0,0,0,100,120.1,,mansurya,2026-10-27T13:49:25
+PDFE14_2,ok,0,0,0,0,0,100,120.6,"Terdapat track palsu, di mana tangan pasien diberi label observer",mansurya,2026-10-27T13:53:39
+PDFE14_3,ok,0,0,0,0,0,100,120.3,"Terdapat track palsu, di mana objek non-observer dan tangan pasien diberi label observer",mansurya,2026-10-27T13:56:55
+PDFE15_1,ada_anomali,8,1,7,0,0,100,120.3,,mansurya,2026-10-27T14:01:30
+PDFE16_1,belum_selesai,0,0,0,0,0,0,120.4,,mansurya,2026-10-27T14:05:17
