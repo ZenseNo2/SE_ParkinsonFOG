@@ -228,3 +228,5 @@ PDFE11_2_otomatis_001282,PDFE11_2,otomatis,close_encounter,1282,1282,42.76,42.76
 PDFE11_2_pola_wide_000170,PDFE11_2,pola,wide,170,194,5.67,6.47,1,bukan_anomali,mansurya,2026-10-27T12:53:50
 PDFE11_2_pola_wide_000238,PDFE11_2,pola,wide,238,242,7.94,8.07,1,bukan_anomali,mansurya,2026-10-27T12:53:51
 PDFE11_2_pola_wide_001130,PDFE11_2,pola,wide,1130,1156,37.69,38.56,1,,mansurya,2026-10-27T13:05:13
+PDFE12_1_pola_overlap_000192,PDFE12_1,pola,overlap,192,242,6.40,8.07,1,,mansurya,2026-10-27T13:38:07
+PDFE12_1_pola_wide_000192,PDFE12_1,pola,wide,192,242,6.40,8.07,1,,mansurya,2026-10-27T13:38:06
