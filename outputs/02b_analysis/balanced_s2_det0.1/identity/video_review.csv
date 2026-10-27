@@ -14,29 +14,5 @@ PDFE07_1,ada_anomali,6,0,6,0,0,1,120.1,,fauza,2026-10-27T08:56:53
 PDFE07_2,ok,0,0,0,0,0,1,121.8,,fauza,2026-10-27T08:57:09
 PDFE07_3,ok,0,0,0,0,0,1,120.4,,fauza,2026-10-27T08:57:35
 PDFE08_1,ada_anomali,3,0,3,0,0,1,120.4,,fauza,2026-10-27T09:06:25
-PDFE09_1,ok,0,0,0,0,0,100,112.1,,mansurya,2026-10-27T12:30:02
-PDFE09_2,ok,0,0,0,0,0,100,115.1,,mansurya,2026-10-27T12:32:17
-PDFE10_1,ok,0,0,0,0,0,100,121.0,,mansurya,2026-10-27T12:35:42
-PDFE10_2,ok,0,0,0,0,0,100,122.2,,mansurya,2026-10-27T12:39:46
-PDFE10_3,ok,0,0,0,0,0,100,121.2,,mansurya,2026-10-27T12:49:51
-PDFE11_1,ok,0,0,0,0,0,100,120.3,,mansurya,2026-10-27T12:52:30
-PDFE11_2,ok,0,0,0,0,0,100,120.2,"ada track palsu, di mana tangan pasien diberi label observer tertentu",mansurya,2026-10-27T13:06:38
-PDFE12_1,ada_anomali,13,13,0,0,0,100,120.8,,mansurya,2026-10-27T13:45:47
-PDFE13_1,ada_anomali,1,1,0,0,0,100,120.8,,mansurya,2026-10-27T13:47:50
-PDFE14_1,ok,0,0,0,0,0,100,120.1,,mansurya,2026-10-27T13:49:25
-PDFE14_2,ok,0,0,0,0,0,100,120.6,"Terdapat track palsu, di mana tangan pasien diberi label observer",mansurya,2026-10-27T13:53:39
-PDFE14_3,ok,0,0,0,0,0,100,120.3,"Terdapat track palsu, di mana objek non-observer dan tangan pasien diberi label observer",mansurya,2026-10-27T13:56:55
-PDFE15_1,ada_anomali,8,1,7,0,0,100,120.3,,mansurya,2026-10-27T14:01:30
-PDFE16_1,ok,0,0,0,0,0,100,120.4,,mansurya,2026-10-27T14:16:23
-PDFE16_2,ok,0,0,0,0,0,100,120.3,"Terdapat false track, tangan pasien diberi label observer",mansurya,2026-10-27T14:18:33
-PDFE17_1,ok,0,0,0,0,0,100,120.6,,mansurya,2026-10-27T14:19:32
-PDFE18_1,ok,0,0,0,0,0,100,120.6,,mansurya,2026-10-27T14:20:23
-PDFE18_2,ok,0,0,0,0,0,100,121.6,,mansurya,2026-10-27T14:21:18
-PDFE18_3,ok,0,0,0,0,0,100,121.4,,mansurya,2026-10-27T14:22:29
-PDFE19_1,ada_anomali,1,1,0,0,0,100,120.1,,mansurya,2026-10-27T15:17:06
-PDFE19_2,ada_anomali,5,4,1,0,0,9,120.4,,mansurya,2026-10-27T15:33:09
-PDFE20_1,ok,0,0,0,0,0,100,120.1,,mansurya,2026-10-27T15:34:47
-PDFE20_2,ok,0,0,0,0,0,100,120.6,"Terdapat tumpang tindih observer false track dan pasien, tapi tracker pasien masih sesuai",mansurya,2026-10-27T15:35:58
-PDFE20_3,ok,0,0,0,0,0,100,120.6,,mansurya,2026-10-27T15:37:17
-PDFE21_1,ada_anomali,2,0,0,2,0,100,120.0,,mansurya,2026-10-27T15:38:54
-PDFE21_2,belum_selesai,0,0,0,0,0,0,120.4,,mansurya,2026-10-27T15:38:59
+PDFE09_1,belum_selesai,0,0,0,0,0,0,112.1,,fauza,2026-10-27T08:57:50
+PDFE09_2,belum_selesai,0,0,0,0,0,0,115.1,,fauza,2026-10-27T08:50:19
