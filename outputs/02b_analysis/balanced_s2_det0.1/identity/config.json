@@ -1,0 +1,16 @@
+{
+  "tracker": "bytetrack",
+  "TRACK_HIGH": 0.5,
+  "TRACK_LOW": 0.1,
+  "TRACK_NEW": 0.6,
+  "TRACK_IOU": 0.3,
+  "MAX_AGE_S": 1.0,
+  "ENC_IOU": 0.15,
+  "ENC_DIST": 0.6,
+  "JUMP_FRAC": 0.5,
+  "MERGE_S": 1.0,
+  "IOU_MATCH": 0.5,
+  "scipy": false,
+  "stage2_run": "balanced_s2_det0.1",
+  "created": "2026-10-24T21:59:19"
+}

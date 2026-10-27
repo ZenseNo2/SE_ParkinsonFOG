@@ -1,0 +1,7 @@
+item_id,video_id,kind,type,start_frame,end_frame,start_s,end_s,seen,decision,reviewer,updated_at
+PDFE05_1_otomatis_001450,PDFE05_1,otomatis,close_encounter,1450,1450,48.37,48.37,1,,fauza,2026-10-24T22:55:28
+PDFE05_1_pola_overlap_000264,PDFE05_1,pola,overlap,264,292,8.81,9.74,1,,fauza,2026-10-24T22:55:07
+PDFE05_1_pola_overlap_000990,PDFE05_1,pola,overlap,990,998,33.02,33.29,1,,fauza,2026-10-24T22:55:19
+PDFE05_1_pola_overlap_001028,PDFE05_1,pola,overlap,1028,1040,34.29,34.69,1,,fauza,2026-10-24T22:55:22
+PDFE05_1_pola_wide_000116,PDFE05_1,pola,wide,116,120,3.87,4.00,1,,fauza,2026-10-24T22:55:05
+PDFE05_1_pola_wide_000552,PDFE05_1,pola,wide,552,556,18.41,18.55,1,,fauza,2026-10-24T22:55:17

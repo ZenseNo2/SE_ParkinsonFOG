@@ -1,0 +1,4 @@
+video_id,status,anomalies,label_pindah_ke_observer,observer_mengisi_kotak_pasien,pasien_hilang,lainnya,watched_pct,duration_s,note,reviewer,updated_at
+PDFE01_1,belum_selesai,1,1,0,0,0,15,120.0,,fauza,2026-10-24T22:19:59
+PDFE01_2,belum_selesai,0,0,0,0,0,21,122.6,,fauza,2026-10-24T22:20:39
+PDFE02_1,ada_anomali,1,1,0,0,0,45,123.0,,fauza,2026-10-24T22:25:00

@@ -1,0 +1,60 @@
+{
+  "settings": {
+    "run_name": "balanced_s2_det0.1",
+    "mode": "balanced",
+    "stride": 2,
+    "det_thr": 0.1,
+    "nms_thr": 0.45,
+    "max_dets": 30,
+    "pose_min_score": 0.1
+  },
+  "models": {
+    "det": "https://download.openmmlab.com/mmpose/v1/projects/rtmposev1/onnx_sdk/yolox_m_8xb8-300e_humanart-c2c7a14a.zip",
+    "det_input_size": [
+      640,
+      640
+    ],
+    "pose": "https://download.openmmlab.com/mmpose/v1/projects/rtmposev1/onnx_sdk/rtmpose-m_simcc-body7_pt-body7-halpe26_700e-256x192-4d3e73dd_20230605.zip",
+    "pose_input_size": [
+      192,
+      256
+    ]
+  },
+  "devices": [
+    "cuda:0",
+    "cuda:1"
+  ],
+  "gpus": [
+    {
+      "index": 0,
+      "name": "Tesla T4",
+      "memory": "15360 MiB",
+      "compute_cap": 7.5
+    },
+    {
+      "index": 1,
+      "name": "Tesla T4",
+      "memory": "15360 MiB",
+      "compute_cap": 7.5
+    }
+  ],
+  "driver_cuda": [
+    13,
+    0
+  ],
+  "onnxruntime": "1.30.0",
+  "rtmlib": "0.0.16",
+  "opencv": "4.14.0",
+  "python": "3.13.15",
+  "videos_found": 73,
+  "labels_csv": "/kaggle/input/datasets/fauzanhafizamndani/label-fog/patient_labels.csv",
+  "input_root": "/kaggle/input/datasets/fauzanhafizamndani/parkinson-fog/Videos",
+  "updated": "2026-10-13T03:53:10",
+  "result": {
+    "videos_ok": 73,
+    "videos_failed": 0,
+    "labelled_frames": 584,
+    "recall": 0.9658,
+    "mean_best_iou": 0.7181
+  }
+}

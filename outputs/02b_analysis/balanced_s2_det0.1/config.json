@@ -1,0 +1,12 @@
+{
+  "stage2_run": "balanced_s2_det0.1",
+  "stage2_npz": "/run/media/zense/Shared Lindows/SE Parkinson/data/stage2/02_pose_balanced_s2_det0.1/balanced_s2_det0.1/npz",
+  "labels_csv": "/run/media/zense/Shared Lindows/SE Parkinson/data/labels/patient_labels.csv",
+  "meta_csv": "None",
+  "STRONG_DET": 0.5,
+  "IOU_MATCH": 0.5,
+  "KPT_THR": 0.3,
+  "SNIPPET_S": 2.0,
+  "LINK_IOU": 0.3,
+  "created": "2026-10-24T21:59:01"
+}

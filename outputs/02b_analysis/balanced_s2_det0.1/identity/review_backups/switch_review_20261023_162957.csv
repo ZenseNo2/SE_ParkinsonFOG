@@ -1,0 +1,9 @@
+event_id,source,video_id,event_frame,event_t_s,types,priority,decision,switch_frame,switch_t_s,wrong_track,true_track,reviewer,reviewed_at,note
+PDFE01_1_e001,auto,PDFE01_1,306,10.21,close_encounter,1.16,tetap_pasien,,,,,fauza,2026-10-23T16:09:55,
+PDFE01_1_e002,auto,PDFE01_1,1486,49.57,close_encounter,1.0,tetap_pasien,,,,,fauza,2026-10-23T16:09:59,
+PDFE01_1_e003,auto,PDFE01_1,1520,50.70,close_encounter,1.0,tetap_pasien,,,,,fauza,2026-10-23T16:10:04,
+PDFE01_1_e004,auto,PDFE01_1,2366,78.92,close_encounter,1.13,tetap_pasien,,,,,fauza,2026-10-23T16:10:08,
+PDFE01_1_e005,auto,PDFE01_1,2970,99.07,close_encounter,1.0,tetap_pasien,,,,,fauza,2026-10-23T16:10:11,
+PDFE01_1_e006,auto,PDFE01_1,3004,100.21,close_encounter,1.0,tetap_pasien,,,,,fauza,2026-10-23T16:11:05,
+PDFE01_1_e007,auto,PDFE01_1,3082,102.81,close_encounter,1.0,tetap_pasien,,,,,fauza,2026-10-23T16:11:09,
+PDFE01_1_e008,auto,PDFE01_1,3230,107.74,close_encounter,1.39,pindah_ke_observer,3230,107.74,1,,fauza,2026-10-23T16:11:19,

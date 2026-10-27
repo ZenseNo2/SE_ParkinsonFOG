@@ -1,0 +1,9 @@
+video_id,frame_idx,status,n_det,frame_diproses,best_iou,best_score,terdeteksi
+PDFE01_1,400,terlihat,2,1,0.857,0.920,1
+PDFE01_1,800,terlihat,2,1,0.910,0.900,1
+PDFE01_1,1200,terlihat,2,1,0.879,0.895,1
+PDFE01_1,1600,terlihat,2,1,0.857,0.895,1
+PDFE01_1,1998,terlihat,2,1,0.917,0.832,1
+PDFE01_1,2398,terlihat,2,1,0.863,0.884,1
+PDFE01_1,2798,terlihat,2,1,0.847,0.917,1
+PDFE01_1,3198,terlihat,2,1,0.729,0.817,1
