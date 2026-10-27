@@ -1,0 +1,25 @@
+anomaly_id,video_id,type,start_frame,end_frame,start_s,end_s,duration_s,patient_track_at_start,true_patient_track,observer_track,note,reviewer,created_at,updated_at
+PDFE01_1_a003230,PDFE01_1,label_pindah_ke_observer,3230,3230,107.74,107.74,0.00,1,1,,[impor],fauza,2026-10-23T16:11:19,2026-10-27T08:49:24
+PDFE01_1_a003236,PDFE01_1,observer_mengisi_kotak_pasien,3236,3236,107.94,107.94,0.00,1,,2,,fauza,2026-10-24T22:34:54,2026-10-27T08:49:42
+PDFE02_1_a003316,PDFE02_1,label_pindah_ke_observer,3316,3316,110.61,110.61,0.00,4,4,,[impor],fauza,2026-10-23T16:30:36,2026-10-24T22:17:11
+PDFE02_1_a003338,PDFE02_1,observer_mengisi_kotak_pasien,3338,3686,111.35,122.96,11.61,4,,,,fauza,2026-10-24T22:40:41,2026-10-24T22:40:46
+PDFE04_1_a000536,PDFE04_1,observer_mengisi_kotak_pasien,536,536,17.88,17.88,0.00,2,,1,,fauza,2026-10-27T08:52:27,2026-10-27T08:52:38
+PDFE04_1_a000708,PDFE04_1,observer_mengisi_kotak_pasien,708,708,23.62,23.62,0.00,2,,1,,fauza,2026-10-27T08:52:48,2026-10-27T08:52:53
+PDFE04_1_a000798,PDFE04_1,observer_mengisi_kotak_pasien,798,798,26.62,26.62,0.00,2,,,,fauza,2026-10-27T08:52:56,2026-10-27T08:52:58
+PDFE04_1_a001104,PDFE04_1,observer_mengisi_kotak_pasien,1104,1104,36.83,36.83,0.00,2,,,,fauza,2026-10-27T08:53:03,2026-10-27T08:53:04
+PDFE04_1_a001398,PDFE04_1,observer_mengisi_kotak_pasien,1398,1398,46.63,46.63,0.00,2,,,,fauza,2026-10-27T08:53:10,2026-10-27T08:53:11
+PDFE04_1_a001710,PDFE04_1,observer_mengisi_kotak_pasien,1710,1710,57.04,57.04,0.00,2,,,,fauza,2026-10-27T08:53:16,2026-10-27T08:53:16
+PDFE04_1_a002216,PDFE04_1,observer_mengisi_kotak_pasien,2216,2216,73.92,73.92,0.00,2,,,,fauza,2026-10-27T08:53:26,2026-10-27T08:53:26
+PDFE04_1_a002220,PDFE04_1,observer_mengisi_kotak_pasien,2220,2220,74.05,74.05,0.00,2,,,,fauza,2026-10-24T22:42:47,2026-10-24T22:43:00
+PDFE04_1_a002550,PDFE04_1,observer_mengisi_kotak_pasien,2550,2550,85.06,85.06,0.00,2,,,,fauza,2026-10-27T08:53:29,2026-10-27T08:53:29
+PDFE05_2_a001440,PDFE05_2,observer_mengisi_kotak_pasien,1440,1440,48.03,48.03,0.00,1,,,,fauza,2026-10-27T08:54:54,2026-10-27T08:54:55
+PDFE05_2_a002824,PDFE05_2,observer_mengisi_kotak_pasien,2824,2824,94.20,94.20,0.00,1,,2,kaki observer intersect,fauza,2026-10-24T23:01:25,2026-10-24T23:02:36
+PDFE07_1_a002848,PDFE07_1,observer_mengisi_kotak_pasien,2848,2902,95.00,96.80,1.80,2,,,,fauza,2026-10-27T08:56:04,2026-10-27T08:56:23
+PDFE07_1_a003058,PDFE07_1,observer_mengisi_kotak_pasien,3058,3058,102.01,102.01,0.00,2,,,,fauza,2026-10-27T08:56:30,2026-10-27T08:56:31
+PDFE07_1_a003098,PDFE07_1,observer_mengisi_kotak_pasien,3098,3098,103.34,103.34,0.00,2,,,,fauza,2026-10-27T08:56:36,2026-10-27T08:56:36
+PDFE07_1_a003132,PDFE07_1,observer_mengisi_kotak_pasien,3132,3132,104.48,104.48,0.00,2,,,,fauza,2026-10-27T08:56:39,2026-10-27T08:56:39
+PDFE07_1_a003314,PDFE07_1,observer_mengisi_kotak_pasien,3314,3314,110.55,110.55,0.00,2,,,,fauza,2026-10-27T08:56:42,2026-10-27T08:56:42
+PDFE07_1_a003444,PDFE07_1,observer_mengisi_kotak_pasien,3444,3444,114.88,114.88,0.00,2,,,,fauza,2026-10-27T08:56:46,2026-10-27T08:56:46
+PDFE08_1_a000080,PDFE08_1,observer_mengisi_kotak_pasien,80,778,2.67,25.95,23.28,2,,,,fauza,2026-10-27T08:57:54,2026-10-27T08:58:06
+PDFE08_1_a001458,PDFE08_1,observer_mengisi_kotak_pasien,1458,1458,48.64,48.64,0.00,2,,,,fauza,2026-10-27T08:58:26,2026-10-27T08:58:27
+PDFE08_1_a002000,PDFE08_1,observer_mengisi_kotak_pasien,2000,2452,66.71,81.79,15.08,2,,1,,fauza,2026-10-27T08:58:47,2026-10-27T08:59:10
